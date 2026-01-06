@@ -1,0 +1,5 @@
+{
+  "name": "AI Sheet Music Composer",
+  "description": "An interactive H5 application to generate, edit, and play ABC music notation using Gemini AI and abcjs.",
+  "requestFramePermissions": []
+}
